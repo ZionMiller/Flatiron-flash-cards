@@ -1,7 +1,17 @@
 body {
-    color: black;
+    background-color: black;
+    color: blue;
   }
   
   h1 {
     color: white;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
+ 
+  title {
+      color: white;
   }
